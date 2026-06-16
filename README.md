@@ -1,6 +1,6 @@
-# GFE
+# GFE — Girlfriend Experience
 
-Girlfriend-experience actress roster — **code and scripts**. Own repo; video assets live in **STUDIO**.
+**GFE** = **Girlfriend Experience** — intimate, direct-to-camera romantic fantasy line with 20 actress profiles. This repo holds **code and scripts**; video assets live in **STUDIO**.
 
 ## Split architecture
 
