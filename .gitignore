@@ -6,6 +6,3 @@ venv/
 *.log
 .DS_Store
 .pytest_cache/
-
-# Actress folders belong in Studio/GFE — block accidental top-level actor dirs
-/[A-Z][a-z][a-zA-Z]*/
