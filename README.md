@@ -23,7 +23,6 @@ Grok Projects/
 ```
 scripts/             # Batch generators → write into ../Studio/GFE/
 lib/                 # actor_profile_generator + studio prompting stubs
-docs/                # ASMR prompt library reference (generated copies also in Studio/GFE)
 ```
 
 ## Scripts
